@@ -1,6 +1,4 @@
 const toSort = [5, 4, 12, 18, 40, 31, 9, 20, 17];
-
-let zero=0;
 let tsLen=toSort.length;
 
 let rng1 = 0;
